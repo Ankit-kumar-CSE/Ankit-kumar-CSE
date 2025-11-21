@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ankit kumar and I'm a Coding lover boy, from Harayana</h2>
+<h2 align="left">Hi 👋! My name is Ankit kumar from Harayana</h2>
 
 ###
 
