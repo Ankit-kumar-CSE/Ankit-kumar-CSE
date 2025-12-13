@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my coding skills<br>👯 I’m looking to collaborate on making android apps<br>🤝 I’m looking for help in deployment of apps<br>🌱 I’m currently learning kotlin<br>💬 Ask me about Python, JavaScript<br>⚡ Fun fact - If i start coding then i forget about time that what time it is.
+🔭 I’m currently working on improving my coding skills<br>👯 I’m looking to collaborate on making WEBSITES & APPS <br>🤝 I’m looking for help in deployment of WEBSITES & APPS<br>🌱 I’m currently learning kotlin<br>💬 Ask me about Python, JavaScript<br>⚡ Fun fact - I always lose track of time when I'm deep into a coding session.
 
 
 ## 🌐 Socials:
